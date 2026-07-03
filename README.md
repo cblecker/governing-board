@@ -46,3 +46,10 @@ The Governing Board’s activities are subject to the following policies:
 * [CNCF Political Neutrality Policy](https://www.cncf.io/political-neutrality-policy/)
 
 The Governing Board’s internal operational procedures are described in the [CNCF Charter](https://github.com/cncf/foundation/blob/main/charter.md) and the documents contained in [Governance and Operations](https://github.com/cncf/governing-board/tree/main/governance-and-operations).
+
+## **Governing Board Support Staff**
+
+The Governing Board's operations are supported primarily by the following CNCF staff members:
+
+Joanna Lee, VP of Strategic Programs & Legal ([@joannalee333](github.com/joannalee333))
+Taylor Waggoner, Program Manager ([@taylorwaggoner](github.com/taylorwaggoner)
