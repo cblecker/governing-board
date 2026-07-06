@@ -52,4 +52,4 @@ The Governing Board’s internal operational procedures are described in the [CN
 The Governing Board's operations are supported primarily by the following CNCF staff members:
 
 Joanna Lee, VP of Strategic Programs & Legal ([@joannalee333](github.com/joannalee333))
-Taylor Waggoner, Program Manager ([@taylorwaggoner](github.com/taylorwaggoner)
+Taylor Waggoner, Program Manager ([@taylorwaggoner](github.com/taylorwaggoner))
